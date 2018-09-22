@@ -1,0 +1,1 @@
+Docker image to build the latest Alpine with lftp and curl.
